@@ -236,7 +236,7 @@ vertical: body pane on the botton</t>
 &lt;li&gt;&lt;strong&gt;我認為是轉盤的軸跟轉盤是一體的所以導致轉盤的軸跟coppeliaSim的軸衝突導致,也許&lt;strong&gt;只要把轉盤跟軸分開就可以了&lt;/strong&gt;&lt;/strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210310205945.1">&lt;section&gt;
-    &lt;p&gt;&lt;img alt="" height="350" src="cd2021/images/錯誤1.png" width="600"&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img alt="" height="350" src="/images/錯誤1.png" width="600"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210310210757.1">&lt;section&gt;
     &lt;p&gt;&lt;iframe width="600" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GUHDy4NxUF4"&gt;&lt;/iframe&gt;&lt;/p&gt;

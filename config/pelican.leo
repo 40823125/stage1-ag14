@@ -100,28 +100,39 @@ Slug: 2021-Fall-Intro-to-computer-programming
 Author: yen
 ---
 
-2020 Fall 計算機程式的教學主要介紹 Python 與 Flutter 在機械設計流程中的應用.
-
+第1到4周分組
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
 @others
 
 </t>
-<t tx="leo.20210310210058.1">Python
-----
-Python 可以用來開發單機版的視窗程式套件 Pyslvs-UI
+<t tx="leo.20210310210058.1">內容討論:
 
-Python 可以用來開發網際版的內容管理系統 CMSiMDE
+stage1-ag14 發球機
 
-Python 可以用來控制 CoppeliaSim 與 Webots 虛擬環境中的機電系統
+製作動機:
+因為我們的組原有一個人是桌球社社長,他想要藉由發球機提供球員自主練習機會。
 
-Python 可以用於機器學習 Keras, Pytorch
+製作規劃:
+第二周:繪製零件圖並組合。
+第三周:用CoppeliaSim測試並修改。
+第四周:報告。
 
+任務分配:
 
-Flutter
-----
+40823125:
 
-Flutter 可以用來開發跨 Apple 與 Android 手機與平板上的 Apps</t>
+CoppeliaSim測試
+
+轉換為Inventor檔並組合
+
+40823110:
+
+製圖(Onshape)
+
+40823132:
+
+PDF製作</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
