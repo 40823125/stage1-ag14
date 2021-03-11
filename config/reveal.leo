@@ -268,7 +268,7 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210311211615.1">&lt;section&gt;
 &lt;h3&gt;引球圓盤&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="235" src="/./../images/引球圓盤-2.png" width="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="235" src="./../images/引球圓盤-2.png" width="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311211629.1">&lt;section&gt;
 &lt;h3&gt;球桶&lt;/h3&gt;
