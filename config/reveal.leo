@@ -31,13 +31,12 @@
 <v t="leo.20210310205945.1"><vh>slide 3-2</vh></v>
 <v t="leo.20210310210757.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20210311143658.1"><vh>slide 4</vh>
-<v t="leo.20210311150956.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210311151603.1"><vh>slide 4</vh>
+<v t="leo.20210311151540.1"><vh>slide 4-1</vh></v>
+<v t="leo.20210311211615.1"><vh>slide 4-2</vh></v>
+<v t="leo.20210311211629.1"><vh>slide 4-1</vh></v>
 </v>
-<v t="leo.20210311151603.1"><vh>slide 5</vh>
-<v t="leo.20210311151540.1"><vh>slide 5-1</vh></v>
-</v>
-<v t="leo.20210310205919.1"><vh>slide 6</vh></v>
+<v t="leo.20210310205919.1"><vh>slide 5</vh></v>
 </v>
 </v>
 </v>
@@ -127,11 +126,13 @@ QLineEdit#editorLabel {
 vertical: body pane on the botton</t>
 <t tx="leo.20200818165234.1">@language xml
 @tabwidth -4
-@others</t>
+@others
+</t>
 <t tx="leo.20200818165301.1">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 @others
-&lt;/html&gt;</t>
+&lt;/html&gt;
+</t>
 <t tx="leo.20200818165413.1">&lt;body&gt;
 @others
     &lt;script src="dist/reveal.js"&gt;&lt;/script&gt;
@@ -155,7 +156,8 @@ vertical: body pane on the botton</t>
         });
 
     &lt;/script&gt;
-&lt;/body&gt;</t>
+&lt;/body&gt;
+</t>
 <t tx="leo.20200818165438.1">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 
@@ -175,14 +177,17 @@ vertical: body pane on the botton</t>
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
-&lt;/head&gt;</t>
+&lt;/head&gt;
+</t>
 <t tx="leo.20200818170041.1">&lt;div class="reveal"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170222.1">&lt;!-- Any section element inside of this container is displayed as a slide --&gt;
 &lt;div class="slides"&gt;
     @others
-&lt;/div&gt;</t>
+&lt;/div&gt;
+</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
     &lt;a href="https://revealjs.com"&gt;
         &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
@@ -194,7 +199,8 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818170535.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20200818170636.1">&lt;section&gt;
 &lt;h2&gt;coppeliaSim模擬影片&lt;/h2&gt;
 &lt;p&gt;&lt;iframe width="600" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/p66UvX3NPIU"&gt;&lt;/iframe&gt;&lt;/p&gt;
@@ -212,47 +218,61 @@ vertical: body pane on the botton</t>
    &lt;p&gt;stage1-ag14 發球機&lt;/p&gt;
 &lt;p&gt;製作動機:&lt;br&gt;因為我們的組原有一個人是桌球社社長,他想要藉由發球機提供球員自主練習機會。&lt;/p&gt;
 &lt;p&gt;製作規劃:&lt;br&gt;&lt;span&gt;第二周:繪製零件圖並組合。&lt;/span&gt;&lt;br&gt;&lt;span&gt;第三周:用CoppeliaSim測試並修改。&lt;/span&gt;&lt;br&gt;&lt;span&gt;第四周:報告。&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210310205817.2">&lt;section&gt;
     &lt;h2&gt;任務分配:&lt;/h2&gt;
     &lt;p&gt;40823125:&lt;/p&gt;
     &lt;p&gt;CoppeliaSim測試&lt;/p&gt;
     &lt;p&gt;轉換為Inventor檔並組合&lt;a href="/downloads/組合件.stl"&gt;組合件.stl&lt;/a&gt;|&lt;a href="/downloads/球體.stl"&gt;球    體.stl&lt;/a&gt;|&lt;a href="/downloads/主體.stl"&gt;主體.stl&lt;/a&gt;|&lt;a href="/downloads/球桶.stl"&gt;球桶.stl&lt;/a&gt;|&lt;a href="/downloads/引球圓盤.stl"&gt;引球圓盤.stl&lt;/a&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210310205817.3">&lt;section&gt;
     &lt;p&gt;40823110:&lt;/p&gt;
     &lt;p&gt;製圖(Onshape):&lt;a href="https://cad.onshape.com/documents/b2fd841cc0d0a0eab0afe5cc/w/650cd44a013042653d1b995f/e/c1547cd791f26bbfc4276762"&gt;球體&lt;/a&gt;|&lt;a href="https://cad.onshape.com/documents/5163181e2fe649a1d31dd674/w/4e88bfbfabd294ec7f2f2b4d/e/697be15fa1b7438b20521146"&gt;發球機主體&lt;/a&gt;|&lt;span&gt;&lt;a href="https://cad.onshape.com/documents/e7f83d8dad44353fefca9ba8/w/c9bfde151271f69c6a6a2b1d/e/dfcfbb7a2da4266f925ff71c"&gt;球桶&lt;/a&gt;|&lt;/span&gt;&lt;span&gt;&lt;a href="https://cad.onshape.com/documents/15e7b2b6610857fd978f626a/w/89c7066d9571d20450730429/e/4182c488ced799f50ceab2a3"&gt;引球圓盤&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210310205838.1">&lt;section&gt;
     &lt;p&gt;40823132:&lt;/p&gt;
     &lt;p&gt;PDF製作&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210310205919.1">&lt;section&gt;
 &lt;h1&gt;分組開會紀錄&lt;/h1&gt;
 &lt;p&gt;&lt;iframe width="600" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/dLK8QT6gpw8"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210310205944.1">&lt;section&gt;
     &lt;h2&gt;CoppeliaSim測試時的問題&lt;/h2&gt;
     &lt;p&gt;&lt;strong&gt;這個問題我有兩個猜測:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;我認為是因為主體的孔跟轉盤的軸接的太緊了，也許&lt;/strong&gt;&lt;strong&gt;只要把其中的一個修改的小一點就可以了&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;我認為是轉盤的軸跟轉盤是一體的所以導致轉盤的軸跟coppeliaSim的軸衝突導致,也許&lt;strong&gt;只要把轉盤跟軸分開就可以了&lt;/strong&gt;&lt;/strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210310205945.1">&lt;section&gt;
     &lt;p&gt;&lt;img alt="" height="350" src="./../images/錯誤1.png" width="600"&gt;&lt;/p&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20210310210757.1">&lt;section&gt;
     &lt;p&gt;&lt;iframe width="600" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GUHDy4NxUF4"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210311151540.1">&lt;section&gt;
+&lt;h3&gt;主體&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="235" src="./../images/主體-4.png" width="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210311143658.1">&lt;section&gt;
-    @others
-&lt;/section&gt;</t>
-<t tx="leo.20210311150956.1">&lt;h2&gt;發球機修改物件&lt;/h2&gt;
-&lt;p&gt;&lt;a href="/downloads/引球圓盤-2.stl"&gt;引球圓盤-2.stl&lt;/a&gt;|&lt;a href="/downloads/發球機主體-2.stl"&gt;發球機主體-2.stl&lt;/a&gt;&lt;/p&gt;</t>
-<t tx="leo.20210311151540.1">&lt;h3&gt;主體&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="235" src="./../images/主體-4.png" width="350"&gt;&lt;/p&gt;</t>
 <t tx="leo.20210311151603.1">&lt;section&gt;
     @others
+&lt;/section&gt;
+</t>
+<t tx="leo.20210311211615.1">&lt;section&gt;
+&lt;h3&gt;引球圓盤&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="235" src="/./../images/引球圓盤-2.png" width="350"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210311211629.1">&lt;section&gt;
+&lt;h3&gt;球桶&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="235" src="./../images/球桶-1.png" width="350"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
