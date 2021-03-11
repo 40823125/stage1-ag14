@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>40823125 cd2021 - Misc</title><link href="https://40823125.github.io/cd2021/blog/" rel="alternate"></link><link href="https://40823125.github.io/cd2021/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40823125.github.io/cd2021/blog/</id><updated>2021-03-10T22:31:31+08:00</updated><entry><title>2021 Fall CD 課程</title><link href="https://40823125.github.io/cd2021/blog/2021-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2021-03-04T11:00:00+08:00</published><updated>2021-03-10T22:31:31+08:00</updated><author><name>yen</name></author><id>tag:40823125.github.io,2021-03-04:/cd2021/blog/2021-Fall-Intro-to-computer-programming.html</id><summary type="html">&lt;p&gt;第1到4周分組
-</summary><content type="html">&lt;p&gt;第1到4周分組
+<feed xmlns="http://www.w3.org/2005/Atom"><title>40823125 cd2021 - Misc</title><link href="https://40823125.github.io/cd2021/blog/" rel="alternate"></link><link href="https://40823125.github.io/cd2021/blog/feeds/misc.atom.xml" rel="self"></link><id>https://40823125.github.io/cd2021/blog/</id><updated>2021-03-11T15:04:43+08:00</updated><entry><title>2021 Fall CD 課程</title><link href="https://40823125.github.io/cd2021/blog/2021-Fall-Intro-to-computer-programming.html" rel="alternate"></link><published>2021-03-04T11:00:00+08:00</published><updated>2021-03-11T15:04:43+08:00</updated><author><name>yen</name></author><id>tag:40823125.github.io,2021-03-04:/cd2021/blog/2021-Fall-Intro-to-computer-programming.html</id><summary type="html">&lt;p&gt;第1到4周分組任務分配
+</summary><content type="html">&lt;p&gt;第1到4周分組任務分配
 &lt;/p&gt;
 &lt;p&gt;內容討論:&lt;/p&gt;
 &lt;p&gt;stage1-ag14 發球機&lt;/p&gt;
 &lt;p&gt;製作動機:
 因為我們的組原有一個人是桌球社社長,他想要藉由發球機提供球員自主練習機會。&lt;/p&gt;
 &lt;p&gt;製作規劃:
-第二周:繪製零件圖並組合。
-第三周:用CoppeliaSim測試並修改。
-第四周:報告。&lt;/p&gt;
+第二周:繪製零件圖並組合。&lt;/p&gt;
+&lt;p&gt;第三周:用CoppeliaSim測試並修改。&lt;/p&gt;
+&lt;p&gt;第四周:報告。&lt;/p&gt;
 &lt;p&gt;任務分配:&lt;/p&gt;
 &lt;p&gt;40823125:&lt;/p&gt;
 &lt;p&gt;CoppeliaSim測試&lt;/p&gt;

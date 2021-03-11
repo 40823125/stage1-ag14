@@ -31,7 +31,13 @@
 <v t="leo.20210310205945.1"><vh>slide 3-2</vh></v>
 <v t="leo.20210310210757.1"><vh>slide 3-3</vh></v>
 </v>
-<v t="leo.20210310205919.1"><vh>slide 4</vh></v>
+<v t="leo.20210311143658.1"><vh>slide 4</vh>
+<v t="leo.20210311150956.1"><vh>slide 4-1</vh></v>
+</v>
+<v t="leo.20210311151603.1"><vh>slide 5</vh>
+<v t="leo.20210311151540.1"><vh>slide 5-1</vh></v>
+</v>
+<v t="leo.20210310205919.1"><vh>slide 6</vh></v>
 </v>
 </v>
 </v>
@@ -181,10 +187,7 @@ vertical: body pane on the botton</t>
     &lt;a href="https://revealjs.com"&gt;
         &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
     &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+    &lt;h3&gt;協同產品設計實習&lt;/h3&gt;
 &lt;/section&gt;
 
 </t>
@@ -240,6 +243,16 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210310210757.1">&lt;section&gt;
     &lt;p&gt;&lt;iframe width="600" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GUHDy4NxUF4"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210311143658.1">&lt;section&gt;
+    @others
+&lt;/section&gt;</t>
+<t tx="leo.20210311150956.1">&lt;h2&gt;發球機修改物件&lt;/h2&gt;
+&lt;p&gt;&lt;a href="/downloads/引球圓盤-2.stl"&gt;引球圓盤-2.stl&lt;/a&gt;|&lt;a href="/downloads/發球機主體-2.stl"&gt;發球機主體-2.stl&lt;/a&gt;&lt;/p&gt;</t>
+<t tx="leo.20210311151540.1">&lt;h3&gt;主體&lt;/h3&gt;
+&lt;p&gt;&lt;img alt="" height="235" src="./../images/主體-4.png" width="350"&gt;&lt;/p&gt;</t>
+<t tx="leo.20210311151603.1">&lt;section&gt;
+    @others
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>

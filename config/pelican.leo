@@ -100,7 +100,7 @@ Slug: 2021-Fall-Intro-to-computer-programming
 Author: yen
 ---
 
-第1到4周分組
+第1到4周分組任務分配
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
 @others
@@ -115,7 +115,9 @@ stage1-ag14 發球機
 
 製作規劃:
 第二周:繪製零件圖並組合。
+
 第三周:用CoppeliaSim測試並修改。
+
 第四周:報告。
 
 任務分配:
