@@ -30,17 +30,21 @@
 <v t="leo.20210311211615.1"><vh>slide 2-2</vh></v>
 <v t="leo.20210311211629.1"><vh>slide 2-1</vh></v>
 </v>
-<v t="leo.20200818170725.1"><vh>slide 3</vh>
-<v t="leo.20200818170636.1"><vh>slide 3-1</vh></v>
-<v t="leo.20210310205944.1"><vh>slide 3-2</vh></v>
-<v t="leo.20210310210757.1"><vh>slide 3-3</vh></v>
-<v t="leo.20210310205945.1"><vh>slide 3-4</vh></v>
-</v>
-<v t="leo.20210314215611.1"><vh>slide4</vh>
-<v t="leo.20210314215614.1"><vh>slide 4-1</vh></v>
-<v t="leo.20210314215615.1"><vh>slide 4-2</vh></v>
-<v t="leo.20210314215615.2"><vh>slide 4-3</vh></v>
-<v t="leo.20210315173529.1"><vh>slide 4-4</vh></v>
+<v t="leo.20210314215611.1"><vh>slide3</vh>
+<v t="leo.20210314215614.1"><vh>slide 3-1</vh></v>
+<v t="leo.20210316191233.1"><vh>slide 3-1-1</vh></v>
+<v t="leo.20210316191233.2"><vh>slide 3-1-2</vh></v>
+<v t="leo.20210314215615.1"><vh>slide 3-2</vh></v>
+<v t="leo.20210316191744.1"><vh>slide 3-2-1</vh></v>
+<v t="leo.20210316192716.1"><vh>slide 3-2-2</vh></v>
+<v t="leo.20210314215615.2"><vh>slide 3-3</vh></v>
+<v t="leo.20210316191749.1"><vh>slide 3-3-1</vh></v>
+<v t="leo.20210315173529.1"><vh>slide 3-4</vh></v>
+<v t="leo.20210316191755.1"><vh>slide 3-4-1</vh></v>
+<v t="leo.20210316191318.1"><vh>slide 3-4-2</vh></v>
+<v t="leo.20210316191318.2"><vh>slide 3-5</vh></v>
+<v t="leo.20210316191803.1"><vh>slide 3-5-1</vh></v>
+<v t="leo.20210316192640.1"><vh>slide 3-5-2</vh></v>
 </v>
 </v>
 </v>
@@ -194,70 +198,39 @@ vertical: body pane on the botton</t>
 &lt;/div&gt;
 </t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;h1&gt;40823125 協同產品設計實習&lt;/h1&gt;
-&lt;/section&gt;
-
-</t>
+    &lt;h1&gt; 協同產品設計實習&lt;/h1&gt;
+    &lt;h2&gt;stage1-ag14&lt;/h2&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20200818170535.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20200818170636.1">&lt;section&gt;
-&lt;h2&gt;coppeliaSim模擬影片&lt;/h2&gt;
-&lt;p&gt;&lt;iframe width="600" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/p66UvX3NPIU"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20200818170725.1">&lt;section&gt;
-    @others
-&lt;/section&gt;
-
-
-</t>
 <t tx="leo.20210310205817.1">&lt;section&gt;
-    &lt;h3&gt;協同產品設計實習 40823125&lt;/h3&gt;
-   &lt;p&gt;stage1-ag14 發球機&lt;/p&gt;
-&lt;p&gt;製作動機:&lt;br&gt;因為我們的組原有一個人是桌球社社長,他想要藉由發球機提供球員自主練習機會。&lt;/p&gt;
+    &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
+   &lt;h2&gt;stage1-ag14 &lt;/h2&gt;
+   &lt;p&gt;協同題目:發球機&lt;/p&gt;
+&lt;p&gt;製作動機:因為我們的組原有一個人是桌球社社長,他想要藉由發球機提供球員自主練習機會。&lt;/p&gt;
 &lt;p&gt;製作規劃:&lt;br&gt;&lt;span&gt;第二周:繪製零件圖並組合。&lt;/span&gt;&lt;br&gt;&lt;span&gt;第三周:用CoppeliaSim測試並修改。&lt;/span&gt;&lt;br&gt;&lt;span&gt;第四周:報告。&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20210310205817.2">&lt;section&gt;
     &lt;h2&gt;任務分配:&lt;/h2&gt;
     &lt;p&gt;40823125:&lt;/p&gt;
     &lt;p&gt;CoppeliaSim測試&lt;/p&gt;
-    &lt;p&gt;轉換為Inventor檔並組合&lt;a href="/downloads/組合件.stl"&gt;組合件.stl&lt;/a&gt;|&lt;a href="/downloads/球體.stl"&gt;球    體.stl&lt;/a&gt;|&lt;a href="/downloads/主體.stl"&gt;主體.stl&lt;/a&gt;|&lt;a href="/downloads/球桶.stl"&gt;球桶.stl&lt;/a&gt;|&lt;a href="/downloads/引球圓盤.stl"&gt;引球圓盤.stl&lt;/a&gt;&lt;/p&gt;
-&lt;/section&gt;
-</t>
+    &lt;p&gt;轉換為Inventor檔並組合&lt;/p&gt;
+    &lt;p&gt;簡報製作&lt;/p&gt;
+    &lt;p&gt;PDF製作&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210310205817.3">&lt;section&gt;
     &lt;p&gt;40823110:&lt;/p&gt;
-    &lt;p&gt;製圖(Onshape):&lt;a href="https://cad.onshape.com/documents/b2fd841cc0d0a0eab0afe5cc/w/650cd44a013042653d1b995f/e/c1547cd791f26bbfc4276762"&gt;球體&lt;/a&gt;|&lt;a href="https://cad.onshape.com/documents/5163181e2fe649a1d31dd674/w/4e88bfbfabd294ec7f2f2b4d/e/697be15fa1b7438b20521146"&gt;發球機主體&lt;/a&gt;|&lt;span&gt;&lt;a href="https://cad.onshape.com/documents/e7f83d8dad44353fefca9ba8/w/c9bfde151271f69c6a6a2b1d/e/dfcfbb7a2da4266f925ff71c"&gt;球桶&lt;/a&gt;|&lt;/span&gt;&lt;span&gt;&lt;a href="https://cad.onshape.com/documents/15e7b2b6610857fd978f626a/w/89c7066d9571d20450730429/e/4182c488ced799f50ceab2a3"&gt;引球圓盤&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/section&gt;
-</t>
+    &lt;p&gt;製圖(Onshape)&lt;/p&gt;
+&lt;/section&gt;</t>
 <t tx="leo.20210310205838.1">&lt;section&gt;
     &lt;p&gt;40823132:&lt;/p&gt;
-    &lt;p&gt;PDF製作&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20210310205944.1">&lt;section&gt;
-    &lt;h2&gt;CoppeliaSim測試時的問題&lt;/h2&gt;
-    &lt;p&gt;&lt;strong&gt;這個問題我有兩個猜測:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;我認為是因為主體的孔跟轉盤的軸接的太緊了，也許&lt;/strong&gt;&lt;strong&gt;只要把其中的一個修改的小一點就可以了&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;我認為是轉盤的軸跟轉盤是一體的所以導致轉盤的軸跟coppeliaSim的軸衝突導致,也許&lt;strong&gt;只要把轉盤跟軸分開就可以了&lt;/strong&gt;&lt;/strong&gt;&lt;strong&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20210310205945.1">&lt;section&gt;
-    &lt;p&gt;&lt;img alt="" height="350" src="./../images/錯誤1.png" width="600"&gt;&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20210310210757.1">&lt;section&gt;
-    &lt;p&gt;&lt;iframe width="600" height="350" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GUHDy4NxUF4"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;/section&gt;
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20210311151540.1">&lt;section&gt;
 &lt;h3&gt;主體&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="235" src="./../images/主體-4.png" width="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="350" src="./../images/主體-4.png" width="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311151603.1">&lt;section&gt;
     @others
@@ -265,20 +238,38 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210311211615.1">&lt;section&gt;
 &lt;h3&gt;引球圓盤&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="235" src="./../images/引球圓盤-2.png" width="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="350" src="./../images/引球圓盤-2.png" width="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210311211629.1">&lt;section&gt;
 &lt;h3&gt;球桶&lt;/h3&gt;
-&lt;p&gt;&lt;img alt="" height="235" src="./../images/球桶-1.png" width="350"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="350" src="./../images/球桶-1.png" width="500"&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210314215611.1">&lt;section&gt;
     @others
 &lt;/section&gt;</t>
 <t tx="leo.20210314215614.1">&lt;section&gt;
-&lt;h2&gt;第1版&lt;/h2&gt;
+&lt;h1&gt;第1版&lt;/h1&gt;
 &lt;p&gt;&lt;a href="/downloads/組合件.stl"&gt;組合件.stl&lt;/a&gt;|&lt;a href="/downloads/球體.stl"&gt;球體.stl&lt;/a&gt;|&lt;a href="/downloads/主體.stl"&gt;主體.stl&lt;/a&gt;|&lt;a href="/downloads/球桶.stl"&gt;球桶.stl&lt;/a&gt;|&lt;a href="/downloads/引球圓盤.stl"&gt;引球圓盤.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1RdYJgX-CONyUPgHzvj-qGBmiZoA7tIm9/view?usp=sharing"&gt;發射滾輪測試.ttt&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/p66UvX3NPIU"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314215615.1">&lt;section&gt;
+&lt;h1&gt;第2版&lt;/h1&gt;
+&lt;p&gt;&lt;a href="/downloads/組合圖-2.stl"&gt;組合圖-2.stl&lt;/a&gt;|&lt;a href="/downloads/發球機主體-2.stl"&gt;發球機主體-2.stl&lt;/a&gt;|&lt;a href="/downloads/引球圓盤-2.stl"&gt;引球圓盤-2.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1GsmMkOOK3HrquF32gm09deCQAFWCTjaf/view?usp=sharing"&gt;發球機組合圖-2.ttt&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210314215615.2">&lt;section&gt;
+&lt;h1&gt;第3版&lt;/h1&gt;
+&lt;p&gt;&lt;a href="/downloads/組合圖-3.stl"&gt;組合圖-3.stl&lt;/a&gt;|&lt;a href="/downloads/主體-3.stl"&gt;主體-3.stl&lt;/a&gt;|&lt;a href="/downloads/引球圓盤-3.stl"&gt;引球圓盤-3.stl&lt;/a&gt;|&lt;a href="/downloads/軸承.stl"&gt;軸承.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/17N-8ABgMcNleLfhRX5221DyTr4VL6H80/view?usp=sharing"&gt;發球機組合圖-3.ttt&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210315173529.1">&lt;section&gt;
+&lt;h2&gt;第4版&lt;/h2&gt;
+&lt;p&gt;&lt;a href="/downloads/組合圖-4.stl"&gt;組合圖-4.stl&lt;/a&gt;|&lt;a href="/downloads/軸承-4.stl"&gt;軸承-4.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1B8iossbDZBjO3TzLTAwdVh5GZbnrD1Vg/view?usp=sharing"&gt;發球機-4.ttt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1qfLpAu2GxdC1gHiTFI4z8q3CFVKeD7Fy/view?usp=sharing"&gt;發球機-4-1.ttt&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316191233.1">&lt;section&gt;
 &lt;p&gt;&lt;strong&gt;CoppeliaSim測試時的問題&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;這個問題我有兩個猜測:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
@@ -287,32 +278,43 @@ vertical: body pane on the botton</t>
 &lt;li&gt;&lt;strong&gt;我認為是轉盤的軸跟轉盤是一體的所以導致轉盤的軸跟coppeliaSim的軸衝突導致,也許&lt;strong&gt;只要把轉盤跟軸分開就可以了&lt;/strong&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/ol&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316191233.2">&lt;section&gt;
 &lt;p&gt;&lt;a href="https://drive.google.com/file/d/1h-w_S60VLdSOlxDe9UeUbPbxfoGVpjHd/view?usp=sharing"&gt;圓盤與主體的錯誤.ttt&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GUHDy4NxUF4"&gt;&lt;/iframe&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img alt="" height="267" src="./../images/錯誤1.png" width="500"&gt;&lt;/p&gt;
-&lt;/section&gt;
-</t>
-<t tx="leo.20210314215615.1">&lt;section&gt;
-&lt;h1&gt;第2版&lt;/h1&gt;
-&lt;p&gt;&lt;a href="/downloads/組合圖-2.stl"&gt;組合圖-2.stl&lt;/a&gt;|&lt;a href="/downloads/發球機主體-2.stl"&gt;發球機主體-2.stl&lt;/a&gt;|&lt;a href="/downloads/引球圓盤-2.stl"&gt;引球圓盤-2.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1GsmMkOOK3HrquF32gm09deCQAFWCTjaf/view?usp=sharing"&gt;發球機組合圖-2.ttt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="250" src="./../images/錯誤1.png" width="500"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316191318.1">&lt;section&gt;
+&lt;p&gt;但是在要將球完整的引導至發球機的軌道裡，會不斷跳動&lt;/p&gt;
+&lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Ifhj4b9HIeQ"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316191318.2">&lt;section&gt;
+&lt;h1&gt;第5版&lt;/h1&gt;
+&lt;p&gt;&lt;a href="/downloads/組合圖-5.stl"&gt;組合圖-5.stl&lt;/a&gt;|&lt;a href="/downloads/主體-5.stl"&gt;主體-5.stl&lt;/a&gt;|&lt;a href="/downloads/軸承-5.stl"&gt;軸承-5.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1V4W0suvDG40gUcVhBzYq3oN-ISx5U4qV/view?usp=sharing"&gt;發球機-5.ttt&lt;/a&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316191744.1">&lt;section&gt;
 &lt;p&gt;在發球機的引球圓盤旋轉時，&lt;span&gt;引球圓盤會微微的上下震動:&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&amp;nbsp; &amp;nbsp; 我認為&lt;span&gt;引球圓盤跟轉軸是一體的，所以引球圓盤的軸跟主體的孔接觸導致引球圓盤會微微的上下震動，我猜測只要將引球圓盤的軸獨立出來就可以解決這個問題&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/fvoF_d6DNsk"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210314215615.2">&lt;section&gt;
-&lt;h1&gt;第3版&lt;/h1&gt;
-&lt;p&gt;&lt;a href="/downloads/組合圖-3.stl"&gt;組合圖-3.stl&lt;/a&gt;|&lt;a href="/downloads/主體-3.stl"&gt;主體-3.stl&lt;/a&gt;|&lt;a href="/downloads/引球圓盤-3.stl"&gt;引球圓盤-3.stl&lt;/a&gt;|&lt;a href="/downloads/軸承.stl"&gt;軸承.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/17N-8ABgMcNleLfhRX5221DyTr4VL6H80/view?usp=sharing"&gt;發球機組合圖-3.ttt&lt;/a&gt;&lt;/p&gt;
+<t tx="leo.20210316191749.1">&lt;section&gt;
 &lt;p&gt;我們將引球圓盤跟轉軸分開後，&lt;span&gt;引球圓盤就可以正常轉動了，不過軸太短了導致引球圓盤跟主體的發球孔會卡住，只要將軸加長就可以解決&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/ghPPEBOKs_M"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210315173529.1">&lt;section&gt;
-&lt;h1&gt;第4版&lt;/h1&gt;
-&lt;p&gt;&lt;a href="/downloads/組合圖-5.stl"&gt;組合圖-5.stl&lt;/a&gt;|&lt;a href="/downloads/組合圖-4.stl"&gt;組合圖-4.stl&lt;/a&gt;|&lt;a href="/downloads/軸承-2.stl"&gt;軸承-2.stl&lt;/a&gt;&lt;/marquee&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://drive.google.com/file/d/1B8iossbDZBjO3TzLTAwdVh5GZbnrD1Vg/view?usp=sharing"&gt;發球機-4.ttt&lt;/a&gt;&lt;/p&gt;
+<t tx="leo.20210316191755.1">&lt;section&gt;
 &lt;p&gt;我們將軸加長後，引球圓盤就可以正常轉動了&lt;/p&gt;
 &lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/bHb0nsadlYw"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316191803.1">&lt;section&gt;
+&lt;p&gt;我們將發球機的軌道移到後面，不過跟第4個版本一樣球和圓盤無法將球正確的引至發球軌道上&lt;/p&gt;
+&lt;p&gt;我認為是球、圓盤、球桶的設定沒有設定好&lt;/p&gt;
+&lt;p&gt;&lt;img alt="" height="328" src="./../images/主體第2版.png" width="500"&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316192640.1">&lt;section&gt;
+&lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/NF6CfldrYS0"&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210316192716.1">&lt;section&gt;
+&lt;p&gt;&lt;iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/fvoF_d6DNsk"&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
